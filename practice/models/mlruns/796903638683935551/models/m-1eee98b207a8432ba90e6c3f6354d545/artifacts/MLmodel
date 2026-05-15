@@ -1,0 +1,23 @@
+artifact_path: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/models/m-1eee98b207a8432ba90e6c3f6354d545/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-1eee98b207a8432ba90e6c3f6354d545
+model_size_bytes: 1884655
+model_uuid: m-1eee98b207a8432ba90e6c3f6354d545
+prompts: null
+run_id: 0972139ff20b4eb18e8caae0b52bcf15
+utc_time_created: '2026-05-04 04:04:48.433552'

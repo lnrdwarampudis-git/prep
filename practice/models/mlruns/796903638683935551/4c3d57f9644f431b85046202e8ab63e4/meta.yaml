@@ -1,0 +1,14 @@
+artifact_uri: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/4c3d57f9644f431b85046202e8ab63e4/artifacts
+end_time: 1777867491475
+entry_point_name: ''
+experiment_id: '796903638683935551'
+lifecycle_stage: active
+run_id: 4c3d57f9644f431b85046202e8ab63e4
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867489784
+status: 3
+tags: []
+user_id: lakshmikalyani

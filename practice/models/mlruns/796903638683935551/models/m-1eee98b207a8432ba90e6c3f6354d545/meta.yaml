@@ -1,0 +1,10 @@
+artifact_location: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/models/m-1eee98b207a8432ba90e6c3f6354d545/artifacts
+creation_timestamp: 1777867488425
+experiment_id: '796903638683935551'
+last_updated_timestamp: 1777867489779
+model_id: m-1eee98b207a8432ba90e6c3f6354d545
+model_type: null
+name: model_randomforest
+source_run_id: 0972139ff20b4eb18e8caae0b52bcf15
+status: 2
+status_message: null

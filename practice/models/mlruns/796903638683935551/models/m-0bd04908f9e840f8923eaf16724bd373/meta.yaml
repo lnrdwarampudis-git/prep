@@ -1,0 +1,10 @@
+artifact_location: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/models/m-0bd04908f9e840f8923eaf16724bd373/artifacts
+creation_timestamp: 1777867490218
+experiment_id: '796903638683935551'
+last_updated_timestamp: 1777867491469
+model_id: m-0bd04908f9e840f8923eaf16724bd373
+model_type: null
+name: model_xgboost
+source_run_id: 4c3d57f9644f431b85046202e8ab63e4
+status: 2
+status_message: null

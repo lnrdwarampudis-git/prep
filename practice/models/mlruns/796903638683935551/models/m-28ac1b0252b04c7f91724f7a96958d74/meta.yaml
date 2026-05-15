@@ -1,0 +1,10 @@
+artifact_location: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/models/m-28ac1b0252b04c7f91724f7a96958d74/artifacts
+creation_timestamp: 1777867491490
+experiment_id: '796903638683935551'
+last_updated_timestamp: 1777867492799
+model_id: m-28ac1b0252b04c7f91724f7a96958d74
+model_type: null
+name: model_decisiontree
+source_run_id: 934749fc6c864c089b501111b3c05cad
+status: 2
+status_message: null

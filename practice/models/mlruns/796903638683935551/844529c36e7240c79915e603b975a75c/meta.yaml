@@ -1,0 +1,14 @@
+artifact_uri: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/844529c36e7240c79915e603b975a75c/artifacts
+end_time: 1777867488279
+entry_point_name: ''
+experiment_id: '796903638683935551'
+lifecycle_stage: active
+run_id: 844529c36e7240c79915e603b975a75c
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867486534
+status: 3
+tags: []
+user_id: lakshmikalyani

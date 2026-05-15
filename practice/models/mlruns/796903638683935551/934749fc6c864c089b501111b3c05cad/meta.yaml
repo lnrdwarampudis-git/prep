@@ -1,0 +1,14 @@
+artifact_uri: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/934749fc6c864c089b501111b3c05cad/artifacts
+end_time: 1777867492803
+entry_point_name: ''
+experiment_id: '796903638683935551'
+lifecycle_stage: active
+run_id: 934749fc6c864c089b501111b3c05cad
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867491476
+status: 3
+tags: []
+user_id: lakshmikalyani

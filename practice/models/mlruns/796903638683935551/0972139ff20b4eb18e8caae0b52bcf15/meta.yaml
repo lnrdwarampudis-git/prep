@@ -1,0 +1,14 @@
+artifact_uri: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/0972139ff20b4eb18e8caae0b52bcf15/artifacts
+end_time: 1777867489783
+entry_point_name: ''
+experiment_id: '796903638683935551'
+lifecycle_stage: active
+run_id: 0972139ff20b4eb18e8caae0b52bcf15
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777867488280
+status: 3
+tags: []
+user_id: lakshmikalyani

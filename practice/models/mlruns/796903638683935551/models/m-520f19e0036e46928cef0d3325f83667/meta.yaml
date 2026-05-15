@@ -1,0 +1,10 @@
+artifact_location: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551/models/m-520f19e0036e46928cef0d3325f83667/artifacts
+creation_timestamp: 1777867486556
+experiment_id: '796903638683935551'
+last_updated_timestamp: 1777867488273
+model_id: m-520f19e0036e46928cef0d3325f83667
+model_type: null
+name: model_logisticregression
+source_run_id: 844529c36e7240c79915e603b975a75c
+status: 2
+status_message: null

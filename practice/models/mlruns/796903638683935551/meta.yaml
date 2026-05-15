@@ -1,0 +1,8 @@
+artifact_location: /Users/lakshmikalyani/claude-prep-ml/prep/practice/../practice/models/mlruns/796903638683935551
+creation_time: 1777867391863
+experiment_id: '796903638683935551'
+last_update_time: 1777867391863
+lifecycle_stage: active
+name: Titanic-Survival-Prediction
+trace_location: null
+workspace: default
